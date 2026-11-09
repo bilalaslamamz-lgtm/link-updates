@@ -1,0 +1,4 @@
+   User-agent: *
+   Allow: /
+
+   Sitemap: https://link-updates.pages.dev/sitemap.xml
